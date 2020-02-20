@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeFan</string>
+    <string name="Btn_off">OFF</string>
+    <string name="spd_ctrl">speed controller</string>
+    <string name="speed_seek">speed</string>
+    <string name="todo">TODO</string>
+    <string name="swt">switch</string>
+    <string name="togglebutton">ToggleButton</string>
+</resources>
